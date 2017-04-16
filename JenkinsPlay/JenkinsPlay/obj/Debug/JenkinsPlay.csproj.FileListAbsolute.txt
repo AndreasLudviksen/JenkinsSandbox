@@ -1,0 +1,1 @@
+C:\Code\egne\JenkinsSandbox\JenkinsPlay\JenkinsPlay\bin\Debug\JenkinsPlay.exe.config
